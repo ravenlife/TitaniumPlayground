@@ -1,3 +1,9 @@
-Installation Instructions:
+# TiPlayground
+
+The idea of this project is to share code and play around in general with Titanium app creation. Fully welcome comments and improvements so please feel free to share.
+
+This project is part of ongoing blog posts here http://richiemortimer.com
+
+# Installation Instructions:
 
 Either there is a bug in Titanium that doesn't like the word Titanium being used in the actual app name or my Titanium is bugged (quite possibly) so had to call it TiPlayground, which is what you should be importing into Titanium Developer
